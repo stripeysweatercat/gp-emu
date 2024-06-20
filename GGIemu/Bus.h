@@ -16,7 +16,7 @@ public:
 
 public:
 	// Connected Devices
-	SM83 cpu;
+	// SM83 cpu;
 
 public:
 	// Memory access functions for both ram and vram
